@@ -32,7 +32,7 @@ class OnBoarding extends StatelessWidget {
                     height: 25,
                   ),
                   Text(
-                    "I'm Dr. Emma, your personal AI therapist.",
+                    "I'm your personal AI therapist.",
                     textAlign: TextAlign.center,
                     style: Theme.of(context).textTheme.displayMedium,
                   ),
